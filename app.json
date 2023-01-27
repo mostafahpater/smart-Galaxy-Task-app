@@ -24,10 +24,18 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+        
+      },
+      "versionCode": 1,
+      "package": "com.mostafahpater.smartgalaxy"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8fcc8a26-96b9-46dd-846f-28c8231e8196"
+      }
     }
   }
 }
